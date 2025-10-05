@@ -6,5 +6,5 @@ spec:
   gatewayClassName: app-gatewayclass
   listeners:
     - name: http
-      protocol: http
+      protocol: HTTP
       port: 80
