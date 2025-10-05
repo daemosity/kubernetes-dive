@@ -6,7 +6,6 @@ metadata:
   name: synergychat-web
   namespace: default
 spec:
-  replicas: 3
   selector:
     matchLabels:
       app: synergychat-web
